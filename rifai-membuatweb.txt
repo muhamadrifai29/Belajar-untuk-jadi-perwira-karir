@@ -1,3 +1,5 @@
 -Rencana membuat sebuah web sederhana
+  +diskusi dengan faza
+  +penentuan alur
 -rancangan frontend untuk klinik pasar minggu
 -belajar bareng faza karna backend
