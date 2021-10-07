@@ -1,0 +1,3 @@
+-Rencana membuat sebuah web sederhana
+-rancangan frontend untuk klinik pasar minggu
+-belajar bareng faza karna backend
